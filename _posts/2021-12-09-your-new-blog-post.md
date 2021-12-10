@@ -40,9 +40,12 @@ SELECT *
 FROM sys.tables
 WHERE [name] = 'SomeTable'
 ```
+
+
 <p align="center">
-![test](https://github.blog/wp-content/uploads/2019/05/mona-heart-featured.png?)
+![test](https://cdn.cnn.com/cnnnext/dam/assets/190109151852-good-stuff-logo-with-smiley-face-super-tease.png)
 </p>
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVMKpcbCn4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
