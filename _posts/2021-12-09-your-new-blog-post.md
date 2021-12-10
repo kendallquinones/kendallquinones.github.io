@@ -28,7 +28,7 @@ Testing
 SELECT * FROM TEST WHERE FIELD = 'abc';
 ```
 
-```tsql
+```TSQL
 SELECT *
 FROM sys.tables
 WHERE [name] = 'SomeTable'
