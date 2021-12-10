@@ -25,7 +25,7 @@ Testing
 > Test for quote share
 
 ```python
-and test '123' assert
+and test '123' assert 1123 and
 ```
 
 ```SQL
