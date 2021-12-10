@@ -30,7 +30,7 @@ and test '123' assert 1123 and
 
 ```sql
 SELECT * FROM TEST WHERE FIELD = 'abc' 123
-CREATE VIEW decimal 123
+CREATE VIEW decimal 123 123
 MATCH_RECOGNIZE
 PATTERN;
 ```
