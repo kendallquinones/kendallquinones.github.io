@@ -523,7 +523,8 @@ SyntaxHighlighter.language.sql = {
         'describe', 'distinct', 'do', 'drop', 'explain', 'from', 'group by',
         'handler', 'index', 'insert', 'into', 'inner join', 'join', 'left join',
         'limit', 'on', 'optimize', 'order by', 'outer join', 'rename', 'replace',
-        'right join', 'select', 'set', 'show', 'table', 'update', 'use', 'union', 'where'],
+        'right join', 'select', 'set', 'show', 'table', 'update', 'use', 'union', 'where', 
+        'match_recognize', 'measures', 'pattern', 'define', 'partition by', 'all matches', 'within'],
     'operator': ['<', '>', '=', '(', ')', '*', ';', '!', ',']
 };
 
