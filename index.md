@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+Imagine things you care about. 
+Technology, Data, Voice of the Customer, Business and more, just without the complex jargon and buzzwords. 
+You need the important, useful, actionable bits without the overcomplicated toppings. 
+You expect practical examples, clear and concise explanations, specific use cases and evidence to back it all up.
 
-Maybe say a some things about yourself.
+You want to-the-point information, like having coffee with a friend that's telling it to you like it is. 
 
-Or maybe what you plan to blog about.
+You want The Simple Version.
