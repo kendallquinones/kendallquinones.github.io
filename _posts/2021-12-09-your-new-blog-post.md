@@ -24,6 +24,10 @@ Testing
 
 > Test for quote share
 
+```python
+and test '123' assert
+```
+
 ```SQL
 SELECT * FROM TEST WHERE FIELD = 'abc'
 CREATE VIEW decimal 123;
