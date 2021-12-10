@@ -24,6 +24,9 @@ SELECT *
 FROM sys.tables
 WHERE [name] = 'SomeTable'
 ```
+<p align="center">
+![test123](https://ih1.redbubble.net/image.1679908391.2109/st,small,507x507-pad,600x600,f8f8f8.jpg)
+</p>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVMKpcbCn4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
