@@ -25,7 +25,8 @@ Testing
 > Test for quote share
 
 ```SQL
-SELECT * FROM TEST WHERE FIELD = 'abc';
+SELECT * FROM TEST WHERE FIELD = 'abc'
+CREATE VIEW decimal;
 ```
 
 ```TSQL
