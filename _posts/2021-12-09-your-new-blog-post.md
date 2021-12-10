@@ -42,9 +42,9 @@ WHERE [name] = 'SomeTable'
 ```
 
 
-
+<p align="center">
 ![test123](https://m.media-amazon.com/images/I/51d12keDWpL.jpg)
-
+</p>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVMKpcbCn4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
