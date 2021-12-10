@@ -25,7 +25,7 @@ FROM sys.tables
 WHERE [name] = 'SomeTable'
 ```
 
-~[test123](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FMegaman-jump-n-shoot-Black-by-Slappers%2F58042109.EJUG5&psig=AOvVaw1knnN7sCOypxE286RJja_P&ust=1639184429515000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDKof-D2PQCFQAAAAAdAAAAABAV)
+~[test123](https://ih1.redbubble.net/image.1679908391.2109/st,small,507x507-pad,600x600,f8f8f8.jpg)
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVMKpcbCn4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
