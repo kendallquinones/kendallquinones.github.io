@@ -26,7 +26,7 @@ Testing
 
 ```SQL
 SELECT * FROM TEST WHERE FIELD = 'abc'
-CREATE VIEW decimal;
+CREATE VIEW decimal 123;
 ```
 
 ```TSQL
